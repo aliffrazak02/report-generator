@@ -1,2 +1,4 @@
-# report-generator
-Streamlit app to generate multiple word documents using data from excel sheet
+# Report Generator
+Streamlit app to generate multiple Word documents using data from an Excel sheet
+
+
